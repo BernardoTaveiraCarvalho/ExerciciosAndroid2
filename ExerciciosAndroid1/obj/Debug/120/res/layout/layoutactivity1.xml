@@ -1,0 +1,14 @@
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" xmlns:android="http://schemas.android.com/apk/res/android"><TextView android:textAppearance="?android:attr/textAppearanceLarge" android:textSize="30dip" android:text="Cálculo de Raiz Quadrada Mano" android:layout_width="match_parent" android:layout_height="wrap_content" />
+        &gt;
+   
+
+    <EditText android:text="" android:inputType="" android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/txt" />
+    
+        &gt;
+
+    <Button android:text="Calcular" android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/btn" />/&gt;
+        &gt;
+     <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:id="@+id/lbl2" />/&gt;
+        &gt;
+
+</LinearLayout>
